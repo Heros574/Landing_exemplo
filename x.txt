@@ -1,0 +1,134 @@
+ <div class="container text-justify liv m-5">
+                <div class="row">
+                    <div class="col-6">
+                        <img class="img2 text-center" src="Inserir um título(1).png" alt="">
+                    </div>
+                    <div class="col-6 m-0">
+                    
+                        <p class="conteudo">
+                            Um guia prático e direto ao ponto, em formato PDF, que revela em detalhes as estratégias ousadas, os hábitos diários e as decisões visionárias que permitiram a Steve Jobs transformar ideias simples em inovações que mudaram o mundo.
+                        </p>
+                        <button onclick="obrigado()" class="adquirir">🔥 Quero Aprender com Jobs</button>
+                    </div>
+                </div>
+                <div class="container d-block m-5 text-center  text-white position-relative ">
+                
+                    <h1 class="titu titu4 ">O QUE VOCÊ VAI ENCONTRAR NESSE PDF:</h1>
+                    <ul class="text-start m-1  ">
+                        <li>A infância e juventude de Jobs: os primeiros sinais de um gênio criativo</li>
+                        <li>Como surgiu a ideia da Apple — e o que você pode aprender com isso</li>
+                        <li>Os erros que quase custaram tudo — e como ele deu a volta por cima</li>
+                        <li>O retorno épico à Apple e a criação do iPhone</li>
+                        <li>5 lições valiosas de empreendedorismo para aplicar no seu negócio ou projeto pessoal</li>
+                    </ul>
+                    <button class="adquirir2  adquirir m-1 z-3" onclick="obrigado()" >BAIXAR AGORA 🚀</button>
+                    <img src="Inserir um título(1).png " class="imf1 " alt="">
+                    <img src="Inserir um título(1).png " class="imf2 " alt="">
+                    <img src="Inserir um título(1).png " class="imf3 " alt="">
+                    <img src="Inserir um título(1).png " class="imf4 " alt="">
+                </div>
+            </div>
+
+            <DIV class="container M-5"> 
+                <DIV class="row text-center">
+                    <div class="col-6"> 
+                        <img src="5.png" alt="" class="position-relative imgpq">
+                    </div>
+                    <div class="col-6 text-center">
+                        <h1 class="pq">PORQUE LER ESSE PDF?</h1>
+                        <p class="conteudo">Este PDF vai te mostrar como ele pensava, liderava e transformava ideias simples em inovações que mudaram o mundo.
+        Você não precisa ser um gênio para empreender. Precisa entender como eles pensam.</p>
+                            
+                    </div>
+                    <button onclick="obrigado()" class="adquirir3  adquirir z-3 "> 🛫 ADQUIRIR PDF </button>
+                </DIV>
+            </DIV>
+
+            
+        <div class="depoimento">
+            <div id="carouselExampleIndicators" class="carousel slide">
+
+        <h1 class="pq m-5">DEPOIMENTOS</h1>
+                <div class="row ">
+                    <div class="col-2"> <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            </div>
+                    <div class="col-8 text-center overflow-visible">   
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+            <div class="container">
+                
+                <div class="comentario  text-white">
+                    <img src="35eWJyV8baT2AUY16BeC--0--upe52.jpg" alt="" class="perfil">
+                    <div class="respost d-block">
+                        <p class="estrelas text-start">⭐⭐⭐⭐⭐</p>
+                        <p class="comentarioT">“Nunca imaginei que entender a mente do Steve Jobs pudesse ser tão aplicável ao meu dia a dia. Em poucas páginas, consegui enxergar onde eu estava errando no meu projeto!” </p>
+                        <div class="d-inline-flex">
+                            <p ><p class="nome">Lucas Martins</p>,empreendedor digital</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="container">
+                <div class="comentario  text-white">
+                    <img src="5KmJcL9gOXNd1sQrKzhd--0--9f0zl.jpg" alt="" class="perfil">
+                    <div class="respost d-block">
+                        <p class="estrelas text-start">⭐⭐⭐⭐⭐</p>
+                        <p class="comentarioT">“Sou fã do Steve Jobs há anos e já li livros sobre ele. Mas esse PDF me surpreendeu: é prático, vai direto ao ponto e tem conselhos que realmente dá pra aplicar.”</p>
+                        <div class="d-inline-flex">
+                            <p ><p class="nome"> João Henrique</p>, criador de conteúdo</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="container">
+            
+                <div class="comentario  text-white">
+                    <img src="BR3eB2CP3vrRxOkLCdYa--0--yro7q.jpg" alt="" class="perfil">
+                    <div class="respost d-block">
+                        <p class="estrelas text-start">⭐⭐⭐⭐⭐</p>
+                        <p class="comentarioT">“O material é direto, inspirador e cheio de sacadas práticas. A parte sobre como ele lidava com críticas e fracassos me deu um novo gás pra continuar empreendendo.”</p>
+                        <div class="d-inline-flex">
+                            <p ><p class="nome">Rafael Lima</p>,designer gráfico</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        
+            
+        <div class="carousel-indicators position-relative indicadores">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        </div>
+                    <div class="col-2"><button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button></div>
+                </div>  
+        
+        
+        </div>
+        </div>
+            </div>
+            <div>
+                <h1 class="titu tituF">Pronto para pensar como Steve Jobs?</h1>
+                <div class="row m-5">
+                    
+                    <div class="col "><p class="conteudo conteudoF w-75 ">Baixe agora o PDF e dê o primeiro passo para transformar suas ideias em algo realmente grandioso. Descubra como aplicar, no seu dia a dia, os princípios que levaram Steve Jobs a revolucionar o mundo da tecnologia. E comece hoje mesmo a criar projetos com propósito, inovação e impacto real.</p></div>
+                    <div class="col "><button class="adquirir adquirirF" onclick="obrigado()" >😎 VOU PENSAR COMO ELE</button></div>
+                </div>
+
+            </div>
