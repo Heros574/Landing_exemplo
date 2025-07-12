@@ -54,11 +54,11 @@ html{
   }
   .comentario{
     position: relative !important;
-    left: 56% !important;
+    left: 50% !important;
    background: #ffffff;
    border-radius: 10px;
    color: #000000 !important;
-   width: 88% !important;
+   width: 75% !important;
 
   }
 
@@ -274,10 +274,10 @@ html{
     font-weight: 900;
     background: #ff0000;
     color: aliceblue;
-   
+    left: -50%;
     padding: 0.5em;
     position: relative;
-    top: 10%;
+    top: 8%;
 }
 
 .adquirir:active{
@@ -375,9 +375,10 @@ li{
     width: auto;
     font-size: 3EM;
     position: relative;
-  
 
-    margin: 0.5em;
+    transform: translateX(-50%);
+    left: 50%;
+  margin: 0.5em;
 
 }
 
@@ -392,13 +393,13 @@ li{
 .comentario{
     display: inline-flex;
     transform: translateX(-50%);
-    left: 58%;
+    left: 50%;
     position: relative;
 }
 
 .comentarioT{
     font-weight: 900;
-   
+    width: 60%;
    
 }
 
@@ -407,8 +408,15 @@ li{
 .nome{
     font-weight: 900;
     white-space: nowrap;
+   
 }
+ 
 
+.Nomes{
+  position: relative;
+  transform: translateX(-50%);
+  
+}
 .trabalho{
     white-space: nowrap;
 }
