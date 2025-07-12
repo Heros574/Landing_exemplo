@@ -158,7 +158,8 @@ html{
     width: auto !important;
     margin: 1em;
     font-size: 1.5em !important;
-    transform: translateX(-50%)
+    transform: translateX(-50%);
+      left: 50%
   }
   .adquirir3{
     position: relative;
