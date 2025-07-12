@@ -8,6 +8,15 @@ html{
     overflow-x: hidden;
     height: 100%
 }
+
+.volta{
+  z-index: 12;
+  
+}
+a{
+  text-decoration: none !important;
+  font-weight: 900;
+}
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 .titu{
     font-weight: 900;
